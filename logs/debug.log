@@ -1,0 +1,152 @@
+Nis 16, 2023 11:54:43 ÖS SuggestionEngine main
+INFO: Info Log
+Nis 16, 2023 11:54:44 ÖS SuggestionEngine suggest
+INFO: Building the parse tree...
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine suggest
+INFO: Built the parse tree...(took 8 seconds)
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine suggest
+INFO: Collecting the public method names...
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine suggest
+INFO: Collected the public method names...
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine suggest
+INFO: [length, isEmpty, charAt, codePointAt, codePointBefore, codePointCount, offsetByCodePoints, getChars, getBytes, getBytes, getBytes, getBytes, equals, contentEquals, contentEquals, equalsIgnoreCase, compareTo, compare, compareToIgnoreCase, regionMatches, regionMatches, startsWith, startsWith, endsWith, hashCode, indexOf, indexOf, lastIndexOf, lastIndexOf, indexOf, indexOf, lastIndexOf, lastIndexOf, substring, substring, subSequence, concat, replace, matches, contains, replaceFirst, replaceAll, replace, split, split, toLowerCase, toLowerCase, toUpperCase, toUpperCase, trim, toString, toCharArray, format, format, valueOf, valueOf, valueOf, copyValueOf, copyValueOf, valueOf, valueOf, valueOf, valueOf, valueOf, valueOf, intern]
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine suggest
+INFO: Finding the suggestions...
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Finding the suggestions...
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: length 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: isEmpty 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: charAt 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: codePointAt 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: codePointBefore 12.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: codePointCount 13.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: offsetByCodePoints 16.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: getChars 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: getBytes 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: getBytes 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: getBytes 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: getBytes 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: equals 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: contentEquals 12.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: contentEquals 12.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: equalsIgnoreCase 15.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: compareTo 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: compare 5.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: compareToIgnoreCase 15.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: regionMatches 11.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: regionMatches 11.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: startsWith 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: startsWith 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: endsWith 8.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: hashCode 8.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: indexOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: indexOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: lastIndexOf 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: lastIndexOf 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: indexOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: indexOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: lastIndexOf 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: lastIndexOf 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: substring 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: substring 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: subSequence 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: concat 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: replace 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: matches 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: contains 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: replaceFirst 10.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: replaceAll 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: replace 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: split 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: split 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: toLowerCase 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: toLowerCase 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: toUpperCase 4.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: toUpperCase 4.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: trim 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: toString 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: toCharArray 8.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: format 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: format 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: copyValueOf 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: copyValueOf 9.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: valueOf 7.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Candidate: intern 6.0
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: Found the suggestions...
+Nis 16, 2023 11:54:52 ÖS SuggestionEngine getTopKNeighbor
+INFO: MinHeap: [toUpperCase: 4.0, compare: 5.0, trim: 6.0]
