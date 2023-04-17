@@ -50,6 +50,25 @@ compare: 5.0
 isEmpty: 6.0
 ```
 
+# Example run3:
+
+```
+make run3
+```
+
+The output is:
+
+```
+rm -f *.class
+javac *.java
+mkdir -p logs
+cat input/ArrayList.java | java -Djava.util.logging.config.file=logging.properties SuggestionEngine add 3
+Suggestions are found:
+add: 0.0
+get: 3.0
+subList: 7.0
+```
+
 # Details
 SuggestionEngine takes 2 arguments: The first one is the word and the second one is the number of suggestions we request.
 The logging location is set up in logging.properties file.
